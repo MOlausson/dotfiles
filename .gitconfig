@@ -1,0 +1,10 @@
+[user]
+	name = Mathias Olausson
+	email = mathias@olausson.net
+  
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+  
